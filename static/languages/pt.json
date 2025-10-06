@@ -1,13 +1,12 @@
 {
-  "title": "Quais países da UE oferecem as melhores perspectivas de emprego?",
-  "subtitle": "O crescimento futuro do emprego nesses países entre 2022 e 2035 é estimado em 5,6%.",
+  "title": "Quanto dinheiro é atribuído à cultura?",
+  "subtitle": "Em 2023, o valor médio gasto em cultura é de até 1,2% do PIB geral da UE.",
   "textNoteDescription": "Observação",
-  "textNote": "SDCHDC",
+  "textNote": "Os dados da Bélgica, Alemanha, Espanha, França, Portugal e Eslováquia são provisórios.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Acesse os dados",
-  "extraInfo_DE": "Alemanha acelera implementação de energia renovável e tem como meta 80% de energia limpa até 2030",
-  "extraInfo_FR": "Parlamento francês aprova importante projeto de lei de reforma da imigração em meio a protestos em todo o país",
-  "legend1": "Não há dados disponíveis",
+  "legend1": "Nenhum dado disponível",
+  "customUnitLabel": "do PIB",
   "tooltipExtraInfoLabel": "Clique aqui"
 }
