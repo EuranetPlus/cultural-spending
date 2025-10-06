@@ -1,13 +1,12 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Kemm flus huma attribwiti għall-kultura?",
+  "subtitle": "Fl-2023 l-ammont medju minfuq fuq il-kultura laħaq il-1.2% tal-PDG ġenerali tal-UE.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Id-dejta għall-Belġju, il-Ġermanja, Spanja, Franza, il-Portugall u s-Slovakkja hija proviżorja.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "L-Eurostat",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
+  "customUnitLabel": "tal-PDG",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
