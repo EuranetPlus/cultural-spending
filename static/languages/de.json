@@ -1,13 +1,12 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wie viel Geld wird der Kultur zugeteilt?",
+  "subtitle": "Im Jahr 2023 werden durchschnittlich 1,2 % des gesamten BIP der EU für Kultur ausgegeben.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Die Daten für Belgien, Deutschland, Spanien, Frankreich, Portugal und die Slowakei sind vorläufig.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
   "legend1": "Keine Daten verfügbar",
+  "customUnitLabel": "des BIP",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
